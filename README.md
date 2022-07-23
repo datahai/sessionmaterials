@@ -6,4 +6,9 @@ All session material is under the Creative Commons Zero v1.0 Universal so you ar
 
 ## azurewellarchitectedframework
 This session focuses on using the 5 pillars of the Azure Well-Architected Framework with Azure Synapse Analytics.
-< /br>< /br>
+<br /><br />
+
+## turbochargepowerbisynapselightning
+This lightning session focuses on using Materialized Views in Dedicated SQL Pools and using CREATE EXTERNAL TABLE AS SELECT in Serverless SQL Pools to enhance performance in Power BI.
+<br /><br />
+
